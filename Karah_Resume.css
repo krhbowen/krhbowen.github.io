@@ -1,0 +1,66 @@
+#header {
+    background-color: #ffffff;
+    color:#778899;
+    font-family: sans-serif;
+}
+
+#header h4{
+    float: left;
+    width:55%;
+}
+
+thead{
+    background-color: white;
+}
+#header p {
+    float: left;
+    width:55%;
+    font-size:14px;
+    font-family: serif;
+}
+
+
+img{
+    float: right;
+    margin-top: 0px;
+}
+
+
+body h3{
+    color: #860065;
+    display: inline-block;
+}
+
+hr{
+    color: #778899;
+}
+
+#info{
+    color: black;
+    border-left: 1px solid #778899;
+    padding:10px;
+    display: inline-block;
+}
+
+#info h4{
+    color: black;
+    font-family: serif;
+}
+
+table, td, th {
+    border: 1px solid white;
+}
+
+table{
+    background-color: white;
+    width: 50%;
+    margin:auto;
+}
+
+td {
+    vertical-align: top;
+    background-color:white;
+}
+
+
+
